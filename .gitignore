@@ -166,3 +166,4 @@ pip-log.txt
 ## my ignore lists
 ###############
 _test/*
+!_test/.githolder
